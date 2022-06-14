@@ -1,15 +1,15 @@
-# App de Cartão de Visitas em Kotlin 
+# Kotlin Business Card App
+Hello welcome
 
-OLA"  bem vindo 
+This was the project delivered at the Inter-Bank Bootcamp at DIO.
 
-Este foi o projeto entregue no Bootcamp do Banco Inter na DIO.
+The objective of the project is to create a business card list application where it is possible to keep the name, company, contact phone, email, and card background color data using the Room database.
 
-O objetivo do projeto é criar um Aplicativo de lista de cartão de visita onde é possível manter os dados nome, empresa, telefone de contato, e-mail e cor de fundo do cartão utilizando banco de dados Room.
+In this project, View Binding, Room, MVVM, LiveData, ListAdapter, Material Desing were used.
 
-Neste projeto foi utilizado View Binding, Room , MVVM, LiveData, ListAdapter, Material Desing.
+Added the feature to Remove the Card.
 
-Acrescentei a funcionalidade de poder Remover o Cartão.
+Feel free to look, I am open to tips and suggestions.
 
-Fiquem a vontade para olhar estou aberto  a dicas e sugestões.
-
+# Screens
 <img src="./image/telas.jpg" />
